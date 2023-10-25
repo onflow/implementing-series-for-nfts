@@ -22,4 +22,7 @@ export const implementingSeriesForNFTs = {
   smartContractExplanation: smartContractExplanationPath,
   transactionCode: transactionPath,
   transactionExplanation: transactionExplanationPath,
+  filters: {
+    difficulty: "intermediate"
+  }
 };
